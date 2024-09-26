@@ -13,3 +13,4 @@ Our auto feeder for Channa fish is designed to simplify the feeding process for 
 
 # Prototype
 <img width="639" alt="Screenshot 2024-09-25 at 13 45 03" src="https://github.com/user-attachments/assets/7029e415-8399-4ee4-b95b-ac4857926e70">
+
